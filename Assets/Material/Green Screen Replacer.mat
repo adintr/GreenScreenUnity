@@ -4,7 +4,7 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: Green Screen Replacer
   m_Shader: {fileID: 4800000, guid: 96c55ab16a464d44882f92eb3f320385, type: 3}
@@ -70,7 +70,7 @@ Material:
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _Sensitivity: 0.1
+    - _Sensitivity: 0.273
     - _ShowBackground: 0
     - _ShowOriginal: 0
     - _Slope: 0
@@ -85,4 +85,4 @@ Material:
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _GreenColor: {r: 0.35686275, g: 0.654902, b: 0.43137258, a: 1}
+    - _GreenColor: {r: 0.15294118, g: 0.54509807, b: 1, a: 1}
